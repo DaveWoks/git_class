@@ -2,3 +2,4 @@
 ## skills learned
 ## Tools
 ## Cloud Platforms
+## Linux Commands Learned
